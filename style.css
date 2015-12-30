@@ -87,6 +87,7 @@ Text Domain:  twentytwelve-store
 
 .woocommerce-activated .site-search input[type="search"] {
     width: 58.5%;
+    -webkit-appearance: none;
 }
 
 .woocommerce-activated .site-header-cart {
